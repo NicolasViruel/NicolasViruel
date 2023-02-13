@@ -1,6 +1,6 @@
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" alt="view" />
-<img src="https://pin.it/671Qe2Balt="view" />
+<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" alt="view" /> -->
+<img src="https://pin.it/671Qe2B" alt="view" />
 ### Hi there 👋
 
 
