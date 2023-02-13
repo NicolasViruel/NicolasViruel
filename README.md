@@ -29,7 +29,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
   <br />
 <!--   <code><img width="10%" src="https://https://raw.githubusercontent.com/Manojkumar8497/Simple-JS-Quiz-App/master/assets/img/js-logo.jpg"></code> -->
-  <code><img width="10%" src="">(https://user-images.githubusercontent.com/109561822/218355017-f8e8f662-de8d-4dba-bee2-1ca85cf12c3f.png)</code>
+  <code><img width="10%" src="![JavaScript]"</code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
