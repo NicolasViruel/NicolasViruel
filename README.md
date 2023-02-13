@@ -39,9 +39,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://vectorwiki.com/images/cp1qJ__miro.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
+  <code><img width="5%" src="https://vectorwiki.com/images/cp1qJ__miro.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasViruel&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/NicolasViruel/github-readme-stats)
