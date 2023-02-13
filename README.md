@@ -26,7 +26,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code> 
-  <code><img width="6%" src="https://vectorwiki.com/images/mRGtI__javascript.svg"></code> 
+  <code><img width="4%" src="https://vectorwiki.com/images/mRGtI__javascript.svg"></code> 
   
   <br />
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
