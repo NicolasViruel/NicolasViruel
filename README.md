@@ -27,6 +27,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code> 
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  [![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   <br />
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
@@ -34,9 +35,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javaScript/javaScript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   
