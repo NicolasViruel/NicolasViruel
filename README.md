@@ -1,7 +1,7 @@
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" alt="view" />
 ### Hi there 👋
 
-
-https://camo.githubusercontent.com/ef18f25fbb944fc208e17fc1112b0c6a58f98da68f05d2a9d8a3487e582e3fdf/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f32326232323238373630323532332e356462643239303831353631642e676966
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
