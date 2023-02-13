@@ -25,26 +25,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code> 
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  <code><img width="7%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code> 
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
   <br />
-  <code><img width="10%" src="{
-  "upl_key": "239ec8a4-163e-4792-83b6-3f6d96911757",
-  "upl_date_add": "2020-10-31T15:29:18.915Z",
-  "upl_status": "PENDIENTE",
-  "upl_filename": "javascript.svg",
-  "upl_content_type": "imagen/svg+xml",
-  "upl_properties": {
-    "comentario": "Logotipo de JavaScript amarillo",
-    "nombre_archivo_original": "javascript.svg",
-    "original_content_type": "imagen/svg+xml"
-  },
-  "tamaño_datos": 886
-}"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <br />
