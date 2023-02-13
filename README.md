@@ -48,7 +48,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 </p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasViruel&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/NicolasViruel/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasViruel&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/NicolasViruel/github-readme-stats) -->
  
   [![Nicolas Viruel GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasViruel)](https://github.com/NicolasViruel/github-readme-stats)
 
