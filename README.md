@@ -31,7 +31,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
