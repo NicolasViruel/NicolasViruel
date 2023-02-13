@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 <!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
+You can use this api: https://github.com/NicolasViruel/github-readme-stats
 -->
 <p>
     <img width="55%" align="right" alt="NicolasViruel's github stats" src="https://github-readme-stats.vercel.app/api?username=nicolasviruel&show_icons=true&hide_border=true"/>
@@ -45,10 +45,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
   <code><img width="5%" src="https://vectorwiki.com/images/cp1qJ__miro.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-   
-
 </p>
-[![Nicolas Viruel GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasViruel)](https://github.com/NicolasViruel/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasViruel&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/NicolasViruel/github-readme-stats)
  
