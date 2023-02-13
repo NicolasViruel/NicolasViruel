@@ -28,8 +28,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code> 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
   <br />
-<!--   <code><img width="50%" src="https://https://raw.githubusercontent.com/Manojkumar8497/Simple-JS-Quiz-App/master/assets/img/js-logo.jpg"></code> -->
-  <code><img width="10%" src="![JavaScript](https://user-images.githubusercontent.com/109561822/218355337-d332754a-adac-4793-8a01-7ef5884763e3.png)"</code>
+  <code><img width="50%" src="https://https://raw.githubusercontent.com/Manojkumar8497/Simple-JS-Quiz-App/master/assets/img/js-logo.jpg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
