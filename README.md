@@ -9,7 +9,6 @@
 
 ###  Connect with me
 <p align="left">
-<a href="https://gmail.com/nicolasviruel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nicolasviruel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nicolasviruel6776/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NicolasViruel" height="30" width="40" /></a>
 <a href="https://instagram.com/nicolasviruel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicoalsviruel" height="30" width="40" /></a>
 </p>
@@ -45,11 +44,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
   <code><img width="5%" src="https://vectorwiki.com/images/cp1qJ__miro.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasViruel&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/NicolasViruel/github-readme-stats)
-
+    [![Nicolas Viruel GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasViruel)](https://github.com/NicolasViruel/github-readme-stats)
 
 </p>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasViruel&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/NicolasViruel/github-readme-stats)
 
-[![Nicolas Viruel GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasViruel)](https://github.com/NicolasViruel/github-readme-stats)
