@@ -44,9 +44,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
   <code><img width="5%" src="https://vectorwiki.com/images/cp1qJ__miro.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-    [![Nicolas Viruel GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasViruel)](https://github.com/NicolasViruel/github-readme-stats)
+   
 
 </p>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasViruel&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/NicolasViruel/github-readme-stats)
+ 
+  [![Nicolas Viruel GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasViruel)](https://github.com/NicolasViruel/github-readme-stats)
 
