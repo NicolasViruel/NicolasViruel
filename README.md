@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on as Programming Tutor in Rolling Code School
 - 🌱 I currently do an internship as a FreeLancer and I learn both Front and Back
-- 👯 I’m looking to collaborate on I seek to collaborate in whatever is necessary to continue learning
+- 👯 He sought to collaborate in a team with a good work environment to continue learning
 
 ###  Connect with me
 <p align="left">
