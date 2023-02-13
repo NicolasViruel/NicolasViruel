@@ -9,7 +9,7 @@
 
 ###  Connect with me
 <p align="left">
-<a href="https://twitter.com/1gabrielcarrizo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1gabrielcarrizo" height="30" width="40" /></a>
+<a href="https://gmail.com/nicolasviruel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nicolasviruel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nicolasviruel6776/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NicolasViruel" height="30" width="40" /></a>
 <a href="https://instagram.com/nicolasviruel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicoalsviruel" height="30" width="40" /></a>
 </p>
