@@ -31,6 +31,7 @@ You can use this api: https://github.com/NicolasViruel/github-readme-stats
   <code><img width="5%" src="https://vectorwiki.com/images/mRGtI__javascript.svg"></code>
   <code><img width="5%" src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Ftypescriptlang%2Ftypescriptlang-icon.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
   
   <br />
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
