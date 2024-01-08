@@ -4,9 +4,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on as Programming Tutor in Rolling Code School
-- 🌱 I currently do an internship as a FreeLancer and I learn both Front and Back
-- 👯 He sought to collaborate in a team with a good work environment to continue learning
+
+-💛 I currently work as a FullStack Developer for Silice.
+-🏂 Also in extra time as a Programming Tutor at Rolling Code School
+-🌱 I also do internships like FreeLancer and learn both Front and Back
 
 ###  Connect with me
 <p align="left">
