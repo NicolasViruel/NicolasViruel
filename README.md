@@ -6,8 +6,8 @@
 
 
 -💛 I currently work as a FullStack Developer for Silice.
--🏂 Also in extra time as a Programming Tutor at Rolling Code School
--🌱 I also do internships like FreeLancer and learn both Front and Back
+-🏂 Also in extra time as a Programming Tutor at Rolling Code School.
+-🌱 I also do internships like FreeLancer and learn both Front and Back.
 
 ###  Connect with me
 <p align="left">
